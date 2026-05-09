@@ -12,18 +12,19 @@ This report is intended for grant reviewers at [OpenSats](https://opensats.org/)
 
 ## Current Report
 
-- **[CodeOrange_ImpactReport_2026.docx](./CodeOrange_ImpactReport_2026.docx)** — April 2026 Impact Report
+- **[Impact Report — Q2 2026](./IMPACT_REPORT_Q2_2026.md)** — Full impact report covering January 2025 – May 2026
 
 ## What's Inside
 
 The report documents:
 
-- **Developer Outcomes**: 26+ developers trained across all cohorts, with per-cohort breakdowns (Mastering Bitcoin, Decoding Bitcoin, Bitcoin Dojo, Sovereign Bitcoiner)
-- **Open-Source Contributions**: Every merged/approved PR from our community — 7 active contributors with merged PRs across 12+ Bitcoin projects including Bitcoin Core, rust-bitcoin, BDK, rust-payjoin, peer-observer, and LDK
-- **Graduate Pipeline**: Where graduates are now, what projects they contribute to, pathways to Chaincode Labs, base58, and Btrust fellowships
-- **Workshop Reach**: 7+ workshop topics, biweekly at Bitcoin House Bali, delivered in 6 languages
-- **Community Growth**: 8 countries represented, part of the Bitcoin Indonesia ecosystem (~55,000 Bitcoiners, 40+ monthly meetups)
-- **Press & Recognition**: Bitcoin Magazine, Fedi Community Spotlight, Blink.sv, Bitcoin Asia 2026 speaker
+- **Developer Pipeline Numbers**: 33+ developers trained, 18+ PRs opened, 12+ merged, 20+ projects contributed to, 12 active contributors, 12 emerging contributors
+- **Every PR Linked**: Full table of merged, approved, and under-review pull requests with GitHub links
+- **Developer Journeys**: 6 detailed case studies showing the path from workshop attendee to open-source contributor (Chaitika → Bitshala, Dayvvo → Btrust, Razor → peer-observer, Peter → Bitcoin Core, Arowolo → rust-payjoin, Psychemist → multi-project)
+- **Cost Efficiency**: $500/merged PR (fellowship), ~$1,000/merged PR (full program) vs. $150K–$250K/year for a full-time Core dev
+- **Programs Delivered**: 5 technical cohort programs with partners (Chaincode, Bitcoin Dev Project, rawBit.io)
+- **Community Reach**: 574 Discord members, 8 countries, 60+ workshops, part of Bitcoin Indonesia (~55,000 Bitcoiners)
+- **Press & Recognition**: Bitcoin Magazine, Fedi, Blink.sv, Bitcoin Asia 2026 speaker
 
 ## Related Resources
 
