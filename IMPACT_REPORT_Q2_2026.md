@@ -1,6 +1,6 @@
-# Code Orange Dev School — Impact Report
+# Code Orange Dev School - Impact Report
 
-> Q2 2026 | Covering operations from January 2025 — May 2026
+> Q2 2026 | Covering operations from January 2025 - May 2026
 
 ---
 
@@ -14,7 +14,7 @@ Our developer pipeline converts curious Bitcoiners into open-source contributors
 Reading Club → Sovereign Bitcoiner → Bitcoin Dojo → rawBit → Decoding Bitcoin → Privacy Track → Fellowship → OSS Contribution
 ```
 
-Based at Bitcoin House Bali (Indonesia), we operate as part of the Bitcoin Indonesia ecosystem — the largest Bitcoin-only community in Asia (~55,000 Bitcoiners, 40+ monthly meetups across 40 Indonesian cities).
+Based at Bitcoin House Bali (Indonesia), we operate as part of the Bitcoin Indonesia ecosystem - the largest Bitcoin-only community in Asia (~55,000 Bitcoiners, 40+ monthly meetups across 40 Indonesian cities).
 
 All curriculum is CC0-licensed and published at [github.com/code-orange-dev](https://github.com/code-orange-dev).
 
@@ -58,8 +58,8 @@ All curriculum is CC0-licensed and published at [github.com/code-orange-dev](htt
 | Chaitika | [silent-pay](https://github.com/Bitshala-Incubator/silent-pay) | Silent Payments library | 2025 |
 | Vaan ([@va-an](https://github.com/va-an)) | [bdk-cli](https://github.com/bitcoindevkit/bdk-cli) | BDK CLI wallet tooling | 2025 |
 | Vaan | [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) | Rust Bitcoin library | 2025 |
-| Razor ([@RazorBest](https://github.com/RazorBest)) | [peer-observer](https://github.com/peer-observer/peer-observer) | [PR #390](https://github.com/peer-observer/peer-observer/pull/390) — P2P network monitoring | 2025 |
-| Razor | [peer-observer](https://github.com/peer-observer/peer-observer) | [PR #393](https://github.com/peer-observer/peer-observer/pull/393) — P2P network monitoring | 2025 |
+| Razor ([@RazorBest](https://github.com/RazorBest)) | [peer-observer](https://github.com/peer-observer/peer-observer) | [PR #390](https://github.com/peer-observer/peer-observer/pull/390) - P2P network monitoring | 2025 |
+| Razor | [peer-observer](https://github.com/peer-observer/peer-observer) | [PR #393](https://github.com/peer-observer/peer-observer/pull/393) - P2P network monitoring | 2025 |
 | Psychemist ([@psychemist](https://github.com/psychemist)) | BDK Android | WIF sweep tool | 2025 |
 | Psychemist | BIP375 Go | BIP375 Go implementation | 2025 |
 | Diegodev ([@0xlaga](https://github.com/0xlaga)) | gossip-observer | Gossip observer contributions | 2025 |
@@ -103,37 +103,37 @@ Full dashboard with monthly updates: [github.com/code-orange-dev/PR-tracking-das
 
 ## Developer Journeys
 
-### Chaitika — From Bali Workshop to Bitshala Incubator
+### Chaitika - From Bali Workshop to Bitshala Incubator
 - **Path**: Joined Code Orange workshops in Bali → Completed Bitcoin Dojo → Started contributing to Silent Payments (BIP352) → Accepted into Bitshala Incubator
 - **Impact**: 3 merged PRs across Silent Payments ecosystem (wallet, indexer, library)
 - **Current**: Building BIP352 wallet infrastructure at Bitshala Incubator in India
 - **Significance**: First Code Orange graduate to join another Bitcoin education program as a builder, not a student
 
-### Dayvvo — From Decoding Bitcoin to Btrust Mentorship
+### Dayvvo - From Decoding Bitcoin to Btrust Mentorship
 - **Path**: Completed Decoding Bitcoin cohort → Started contributing to Alby and Cashu → Accepted into Btrust open-source mentorship
 - **Impact**: 3 merged PRs (Alby js-sdk, Alby bitcoin-connect, cashu-ts)
 - **Current**: Lightning and eCash ecosystem contributor under Btrust mentorship
 - **Significance**: Demonstrates the pipeline from Code Orange to independent grant-funded work
 
-### Razor — From Romania to Bitcoin P2P Infrastructure
+### Razor - From Romania to Bitcoin P2P Infrastructure
 - **Path**: Joined Code Orange remotely from Romania → Completed Bitcoin Dojo → Contributed to peer-observer (0xB10C's P2P monitoring tool)
 - **Impact**: 2 merged PRs (#390, #393) to peer-observer
 - **Current**: Active contributor to Bitcoin network monitoring infrastructure
 - **Significance**: Shows the program works globally, not just in Bali
 
-### Peter — From Developer to Bitcoin Core Contributor
+### Peter - From Developer to Bitcoin Core Contributor
 - **Path**: Joined Decoding Bitcoin cohort → Started contributing to Bitcoin Core (C++) and rust-bitcoin → Building Kernel-Node
 - **Impact**: Multiple PRs under review at Bitcoin Core and rust-bitcoin
 - **Current**: Building Kernel-Node, mentored by Jonas (Chaincode Labs)
 - **Significance**: Closest to a full-time Bitcoin Core developer pipeline output
 
-### Arowolo — First PR to Payjoin
+### Arowolo - First PR to Payjoin
 - **Path**: Completed Bitcoin Dojo → Studied Payjoin (BIP77) → Submitted first PR to rust-payjoin
 - **Impact**: First PR approved to one of Bitcoin's core privacy protocols
 - **Current**: Awaiting merge, continuing Payjoin contributions
 - **Significance**: Validates the Privacy Track pipeline before it formally launches
 
-### Psychemist — Multi-Project Contributor
+### Psychemist - Multi-Project Contributor
 - **Path**: Completed multiple cohorts → Contributing across BDK, BIP375, and LDK
 - **Impact**: 2 merged PRs (BDK Android, BIP375 Go), LDK PR under review
 - **Current**: Active across wallet infrastructure and Lightning
@@ -196,7 +196,7 @@ All workshop materials are open-source: [github.com/code-orange-dev/workshops](h
 
 ### Part of Bitcoin Indonesia Ecosystem
 
-Code Orange operates within Bitcoin Indonesia — the largest Bitcoin-only community in Asia:
+Code Orange operates within Bitcoin Indonesia - the largest Bitcoin-only community in Asia:
 - ~55,000 Bitcoiners engaged
 - 40+ monthly meetups across 40 Indonesian cities
 - Featured in Bitcoin Magazine, Fedi Community Spotlight, Blink.sv
@@ -211,7 +211,7 @@ Code Orange operates within Bitcoin Indonesia — the largest Bitcoin-only commu
 | Bitcoin Magazine | Featured coverage of Bitcoin Indonesia / Code Orange |
 | Fedi Community Spotlight | Highlighted as community building case study |
 | Blink.sv | Featured community |
-| Bitcoin Asia 2026 (Hong Kong) | Keypleb confirmed speaker — representing SE Asian developer education |
+| Bitcoin Asia 2026 (Hong Kong) | Keypleb confirmed speaker - representing SE Asian developer education |
 
 ---
 

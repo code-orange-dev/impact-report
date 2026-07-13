@@ -1,4 +1,4 @@
-# Code Orange Dev School — Impact Report
+# Code Orange Dev School - Impact Report
 
 > **Documenting developer outcomes, open-source contributions, and community growth.**
 
@@ -6,13 +6,13 @@
 
 ## About
 
-This repository contains the official Impact Report for [Code Orange Dev School](https://codeorange.dev) — Asia's Bitcoin Developer Pipeline. We publish impact reports to provide transparent, measurable evidence of our contribution to the Bitcoin open-source ecosystem.
+This repository contains the official Impact Report for [Code Orange Dev School](https://codeorange.dev) - Asia's Bitcoin Developer Pipeline. We publish impact reports to provide transparent, measurable evidence of our contribution to the Bitcoin open-source ecosystem.
 
 This report is intended for grant reviewers at [OpenSats](https://opensats.org/), [Human Rights Foundation](https://hrf.org/), [Btrust](https://www.btrust.tech/), and the broader Bitcoin community.
 
 ## Current Report
 
-- **[Impact Report — Q2 2026](./IMPACT_REPORT_Q2_2026.md)** — Full impact report covering January 2025 – May 2026
+- **[Impact Report - Q2 2026](./IMPACT_REPORT_Q2_2026.md)** - Full impact report covering January 2025 – May 2026
 
 ## What's Inside
 
@@ -28,9 +28,9 @@ The report documents:
 
 ## Related Resources
 
-- **[PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard)** — Monthly-updated tracking of every PR by our community
-- **[Curriculum](https://github.com/code-orange-dev/curriculum)** — Full open-source curriculum (CC0 licensed)
-- **[Main Repo](https://github.com/code-orange-dev/code-orange-dev)** — Code Orange Dev School overview
+- **[PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard)** - Monthly-updated tracking of every PR by our community
+- **[Curriculum](https://github.com/code-orange-dev/curriculum)** - Full open-source curriculum (CC0 licensed)
+- **[Main Repo](https://github.com/code-orange-dev/code-orange-dev)** - Code Orange Dev School overview
 
 ## Update Schedule
 

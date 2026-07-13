@@ -1,7 +1,7 @@
-# Quarterly Progress Report — Code Orange Dev School
+# Quarterly Progress Report - Code Orange Dev School
 
 > **Quarter:** [Q1/Q2/Q3/Q4] [Year]
-> **Reporting Period:** [Start Date] — [End Date]
+> **Reporting Period:** [Start Date] - [End Date]
 > **Submitted by:** Keypleb (fellowship@codeorange.dev)
 
 ---
