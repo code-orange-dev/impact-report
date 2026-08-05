@@ -1,6 +1,8 @@
 # Code Orange Dev School - Impact Report
 
 > Q2 2026 | Covering operations from January 2025 - May 2026
+>
+> **Reporting cutoff: May 2026.** This document is a historical grant-report snapshot. It does not represent live PR totals or contributor status; use the [PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard) for the current, linked monthly snapshot and its counting rules.
 
 ---
 
@@ -20,7 +22,7 @@ All curriculum is CC0-licensed and published at [github.com/code-orange-dev](htt
 
 ---
 
-## Developer Pipeline: The Numbers
+## Developer Pipeline: The Numbers (as of May 2026)
 
 | Metric | Count | Notes |
 |--------|-------|-------|
@@ -240,4 +242,4 @@ Everything is public and linked:
 
 *Code Orange Dev School | [codeorange.dev](https://codeorange.dev) | [github.com/code-orange-dev](https://github.com/code-orange-dev)*
 
-*Report published: May 2026 | Next update: August 2026*
+*Report published: May 2026. The planned next update at publication was August 2026; current PR metrics live on the [PR Tracking Dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard).*
