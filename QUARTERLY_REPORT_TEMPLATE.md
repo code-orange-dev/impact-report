@@ -21,7 +21,6 @@
 | PRs opened (cumulative) | | | |
 | PRs merged (cumulative) | | | |
 | Active contributors | | | |
-| Emerging contributors | | | |
 | Developers trained (cumulative) | | | |
 | Projects contributed to | | | |
 | Sessions delivered this quarter | | | |
