@@ -6,6 +6,8 @@
 
 ---
 
+> **Rule:** every number and claim in this report must link to public evidence (a PR, the [PR dashboard](https://github.com/code-orange-dev/PR-tracking-dashboard), a calendar entry, an attendance record). Leave a field empty rather than estimate it. No "+" figures.
+
 ## Summary
 
 [2-3 sentence summary of the quarter's key achievements.]
@@ -19,7 +21,6 @@
 | PRs opened (cumulative) | | | |
 | PRs merged (cumulative) | | | |
 | Active contributors | | | |
-| Emerging contributors | | | |
 | Developers trained (cumulative) | | | |
 | Projects contributed to | | | |
 | Sessions delivered this quarter | | | |
